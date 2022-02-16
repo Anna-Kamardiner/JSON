@@ -3,10 +3,10 @@
 	"Link": "currency.com/ko",
 
 	"Steps to reproduce": {
-		[
+		
 			"Step1": "Open https://currency.com/ko",
 			"Step2": "Hover the first menu item"
-		]
+		
 	},
 
 	"Actual Result": "first item of the menu haven't translate to Korean on the main page",
