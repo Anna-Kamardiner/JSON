@@ -1,4 +1,5 @@
 {
+	"ID":"56"
 	"Summary": "first item of the menu haven't translate to Korean on the main page",
 	"Link": "currency.com/ko",
 
@@ -10,5 +11,6 @@
 	},
 
 	"Actual Result": "first item of the menu haven't translate to Korean on the main page",
-	"Expected Result": "first item of the menu translate to Korean on the main page "
+	"Expected Result": "first item of the menu translate to Korean on the main page ",
+	"Environment": "Microsoft 8.1,Chrome version 98.0.4758.102"
 }
